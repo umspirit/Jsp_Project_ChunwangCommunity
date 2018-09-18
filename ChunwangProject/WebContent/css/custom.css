@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+* {
+	font-family: 'Nanum Gothic';
+}
+
+thead th {
+	background-color: #006dcc;
+	color : write;
+	text-align: center;
+}
+input {
+	autocomplete: off;
+}
